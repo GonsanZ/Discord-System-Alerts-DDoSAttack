@@ -1,6 +1,6 @@
-# Versión beta para 2024
+<h1> Versión beta para 2024</h1>
 
-<h1>Se cambiaron algunas cosas</h1>
+- Se cambiaron algunas cosas:
 
 * Se agregaron y cambiaron algunos códigos.
 * Se corrigieron algunos errores
